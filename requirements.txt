@@ -3,7 +3,6 @@ Django
 django-cors-headers
 djangorestframework
 gunicorn
-pkg-resources
 pytz
 sqlparse
 typing-extensions
